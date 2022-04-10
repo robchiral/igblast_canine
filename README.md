@@ -1,5 +1,5 @@
 # igblast_canine
-Canine data for igblastn. Based on IMGT release 202214-2 (05 April 2022).
+Canine IGHV data for igblastn. Based on IMGT release 202214-2 (05 April 2022).
 
 Usage:
 
